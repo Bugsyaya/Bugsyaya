@@ -2,11 +2,11 @@
 
 Je suis développeuse fullstack et UI/UX designeuse et je travaille actuellement sur 🗓 Planin'go 🗓 :
 
-- 🪄 [https://github.com/Bugsyaya/planingo-office](https://github.com/Planingo/planingo-office)
-- 🖌 [https://github.com/Bugsyaya/planingo-front](https://github.com/Planingo/planingo-front)
-- 🎨 [https://github.com/Bugsyaya/Ditto](https://github.com/Planingo/Ditto)
-- ⚙️ [https://github.com/Bugsyaya/planingo-back](https://github.com/Planingo/planingo-back)
-- 🔐 [https://github.com/Bugsyaya/planingo-auth](https://github.com/Planingo/planingo-auth)
+- 🪄 [https://github.com/Planingo/planingo-office](https://github.com/Planingo/planingo-office)
+- 🖌 [https://github.com/Planingo/planingo-front](https://github.com/Planingo/planingo-front)
+- 🎨 [https://github.com/Planingo/Ditto](https://github.com/Planingo/Ditto)
+- ⚙️ [https://github.com/Planingo/planingo-back](https://github.com/Planingo/planingo-back)
+- 🔐 [https://github.com/Planingo/planingo-auth](https://github.com/Planingo/planingo-auth)
 - ♻️ https://github.com/Planingo/bubble-craft
 
 
